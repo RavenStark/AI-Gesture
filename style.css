@@ -1,0 +1,25 @@
+.copyright_footer {
+position: fixed;
+bottom: 0;
+width: 100%;
+line-height: 3;
+text-align: center;
+background-color: #449d44;
+border-radius: 5px ;
+color: aliceblue;
+font-weight: bold;
+}
+
+body {
+    border: 6px solid black;
+    background: linear-gradient(rgb(195, 195, 255) 0% , rgb(181, 255, 233) 100%) ;
+}
+
+canvas {
+    border: 4px ridge black;
+    border-radius: 3px;
+}
+
+.heading {
+    box-shadow: 5px 5px 5px gray;
+}
